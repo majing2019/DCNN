@@ -1,0 +1,6 @@
+.history
+.vscode
+conda-env
+dcnn.code-workspace
+__pycache__
+runs
